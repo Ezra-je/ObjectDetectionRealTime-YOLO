@@ -1,4 +1,4 @@
-# ObjectDetectionRecognitionWithYOLO
+# Developing High-Throughput, Low-Latency Visual Perception Systems Leveraging YOLO Architectures for Real-Time Object Localization
 
 HOW TO USE
 
